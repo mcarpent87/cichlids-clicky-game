@@ -1,0 +1,23 @@
+.titlebox {
+  /* background-image: url('/img/dogs_bg_denim.jpg'); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 100px;
+  text-align: center;
+  vertical-align: center;
+  /* opacity: 0.3; */
+  /* filter: alpha(opacity=30); */
+  font-family: 'Baloo', cursive;
+  color:navy;
+  margin-bottom: 20px;
+}
+
+.titlebox h1 {
+  margin-top: 90px;
+  font-size: 3.5em;
+}
+
+.titlebox p {
+  font-size: 1.8em;
+}

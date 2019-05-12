@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Frontosa",
+    "image": "frontosa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Electric Blue Johanni",
+    "image": "electric_blue_johanni.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hongi Red Top",
+    "image": "red_top_hongi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yellow Lab",
+    "image": "yellow_lab.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mdoka White Lips",
+    "image": "mdoka.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tangerine Tiger",
+    "image": "tangerine.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Red Sun Peacock",
+    "image": "redsun.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Red Fin Borleyi",
+    "image": "borleyi.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Taiwan Reef Cichlid",
+    "image": "taiwanreef.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Red Shoulder Peacock",
+    "image": "redshoulder.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Giraffe Hap",
+    "image": "giraffe.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kyoga Flameback",
+    "image": "kyoga.jpg"
+  }
+]
